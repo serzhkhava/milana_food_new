@@ -1,0 +1,307 @@
+body{
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.insideClass{
+    display: flex;
+    justify-content: space-around;
+}
+header{
+   background-image: url(../image/1627532947_42-kartinkin-com-p-yeda-na-chernom-fone-yeda-krasivo-foto-50.jpg);
+   height: 900px;
+   backdrop-filter: blur(4px);
+   background-size: 100%;
+}
+main{
+    background-image: url(../image/сортированные-еда-и-блюда-из-овощей-мяса-рыбы-на-черном-фоне-каменной-168102539.jpg);
+    background-size: 100%;
+   
+}
+.backBlur,.backBlur2{
+    backdrop-filter: blur(12px);
+}
+#loorem{
+    color: white;
+}
+.df{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 1000px;
+}
+
+.blooc{
+    background-image: url(../image/чери.jpg);
+    height: 850px;
+
+    background-size: 100%;
+    margin: 0;
+    background-color: white;
+}
+#lol{
+    
+    height: 1000px;
+    background-size: 100%;
+}
+.all-cards7{
+    display: flex;
+    justify-content: center;
+}
+.card{
+    border:solid white 2px ;
+    width: 400px;
+    margin-inline: 10px;
+}
+.p-2footer, .p-3footer, .p-4footer{
+    color: #fff;
+    margin: 50px 100px 0 100px;
+}
+.p-3footer{
+    color: rgb(218, 174, 55);
+    padding-top: 20px;
+    font-size: 23px;
+    font-weight: 700;
+}
+.footer-info{
+    display: flex;
+    justify-content: center;
+}
+
+.hr-footer{
+    margin-inline: 50px;
+}
+#oll{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#mil{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    color: white;    margin: 0;
+}
+
+.lllo{
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    backdrop-filter: blur( 4px );
+    align-items: center;
+}
+.allCards{
+
+    margin: 0;
+    backdrop-filter: blur( 4px );
+    height: 1000px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+ul{
+    color: rgb(255, 255, 255);
+}
+#cardLi{
+    margin-top: 20px;
+    margin-bottom : 20px;
+    list-style : none;
+  
+}
+#cardLi7{
+    align-items: center;
+    list-style : none;
+    text-align: center;
+}
+#lllo{
+    color: white;
+    border-color: wheat;
+}
+#cardLi5{
+    color: rgb(218, 174, 55);
+    list-style: none;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom : 20px;
+    list-style : none;
+}
+#cardLi1{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    list-style: none;
+    text-align: center;
+    color: white;
+}
+.smook{
+    background-size: 100%;
+   
+}
+hr{
+    margin-inline: 1px;
+}
+#cardLi1{
+    color: rgb(255, 255, 255);
+}
+
+#allCards{
+    text-align: center;
+    color: white;    
+    margin: 0;padding-top: 80px;
+}
+.games,.contacts,.MIlana{
+    width: 600px;
+    display: inline-block;
+    color:white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: left;
+    vertical-align: top;
+    list-style: none;
+}
+#cof{
+    color:rgb(218, 174, 55) ;
+}
+footer{
+    background-color: rgba(0, 0, 0, 0.596);
+}
+.blpc{
+    height: 1000px;
+    backdrop-filter: blur(4px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bol,#poop{
+    color: white;
+}
+
+.curts{
+    
+    border:solid white 2px ;
+    width: 400px;
+    margin-inline: 10px;
+    
+}
+.mol{
+    text-align: center;
+    background-image: url(../image/lololollololo.jpg);
+    height: 850px;
+    background-size: 100%;
+}
+.mool{
+    backdrop-filter: blur( 12px );
+    height: 850px;
+}
+
+
+
+.backBlur2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 850px;
+}
+#stop{
+    margin: 0;
+}
+
+.textblc{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: white;
+}
+.blkimg{
+    width: 1000px;
+    height: 740px;
+    background-image: url(../image/1627532947_42-kartinkin-com-p-yeda-na-chernom-fone-yeda-krasivo-foto-50.jpg);
+    display: flex;
+
+}
+#sumbTitle{
+    text-align: center;
+    margin-inline: 100px;
+  
+}
+
+#mainTitle{
+    text-align: center;
+   
+}
+#allCards2{
+    text-align: center;
+    color: white;
+}
+
+
+.bb{
+    width: 500px;
+    margin-left: 50px;
+}
+.butform{
+    text-align: center;
+}
+#clik{
+    color: white;
+    background-color: rgba(255, 255, 255, 0);
+    border-radius: 0%;
+    border: solid 3px white;
+    padding:  15px 40px 15px 40px ;
+    font-size: 25px;
+}
+/* From uiverse.io by @meermubashar */
+#but{
+    width: 140px;
+    height: 45px;
+    font-size: 23px;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    background: transparent;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    position: relative;
+    transition: all 0.5s;
+    z-index: 1;
+
+   }
+   
+   #but::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 5px;
+    height: 100%;
+    background-color: white;
+    z-index: -1;
+    transition: all 0.5s;
+   }
+   
+   #but:hover::before {
+    width: 100%;
+   }
+   
+   #but:hover {
+    color: black;
+   }
+   
+   #but:active:before {
+    background: #b9b9b9;
+   }
+
+
+.MIlana{
+    text-align: center;
+}   
+#input{
+   border: none;
+   background-color: rgba(255, 255, 255, 0); 
+   border-bottom: solid 2px white;
+}
+.contarform{
+    display: flex;
+    justify-content: space-around;
+}
+#connect{
+    color: white;
+}
